@@ -1,9 +1,17 @@
 * {
-
+  color: darkblue;
 }
 
 .main {
   background-image: url("../images/background.jpg");
   background-position: center;
   text-align:center;
+  font-weight: bolder;
+  border: 5px solid brown;
+}
+
+.list {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #ffcc99;
 }
