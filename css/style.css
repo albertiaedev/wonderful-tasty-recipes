@@ -14,16 +14,24 @@
   padding-top: 40px;
   padding-bottom: 40px;
   background-color: #ffcc99;
+  border: 1px solid brown;
 }
 
 .breakfast {
-  padding-left: 80px;
+  padding-left: 50px;
+  text-decoration: none;
 }
 
 .lunch {
-  padding-left: 80px;
+  padding-left: 50px;
+  text-decoration: none;
 }
 
 .dinner {
-  padding-left: 80px;
+  padding-left: 50px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
 }
