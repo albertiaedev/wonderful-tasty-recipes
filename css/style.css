@@ -3,8 +3,7 @@
 }
 
 .main {
-  background-image: url("../images/background.jpg");
-  background-position: center;
+  background-color: #ffcc99;
   text-align:center;
   font-weight: bolder;
   border: 5px solid brown;
@@ -13,25 +12,49 @@
 .list {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #ffcc99;
+  background-image: url("../images/background.jpg");
+  background-position: center;
   border: 1px solid brown;
 }
 
 .breakfast {
+  display: flex;
   padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   text-decoration: none;
 }
 
 .lunch {
+  display: flex;
   padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   text-decoration: none;
 }
 
 .dinner {
+  display: flex;
   padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   text-decoration: none;
 }
 
 a, .back {
   text-decoration: none;
+}
+
+.footer {
+  position: relative;
+  background-color: brown;
+  text-align: center;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.copy {
+  font-weight: bolder;
 }
