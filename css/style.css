@@ -57,13 +57,26 @@ h3 {
   padding-bottom: 30 px;
 }
 
+.recipe, .ingredients, .ingredient {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+a, .back {
+  text-decoration: none;
+}
+
 .back {
   display: flex;
   justify-content: flex-start;
   padding-left: 20px;
   padding-top: 40px;
   padding-bottom: 40px;
-  text-decoration: none;
 }
 
 .footer {
