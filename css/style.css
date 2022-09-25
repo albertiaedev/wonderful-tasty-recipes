@@ -22,13 +22,12 @@
   border: 1px solid brown;
 }
 
-.breakfast:hover {
+.breakfast {
   display: flex;
   padding-left: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
   text-decoration: none;
-  background-color: #192a56;
 }
 
 .lunch {
@@ -45,6 +44,12 @@
   padding-top: 10px;
   padding-bottom: 10px;
   text-decoration: none;
+}
+
+.breakfast:hover, .lunch:hover, dinner:hover {
+  background-color: brown;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 h3 {
