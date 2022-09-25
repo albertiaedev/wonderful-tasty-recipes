@@ -1,5 +1,5 @@
 * {
-  color: darkblue;
+  color: #192a56;
   padding: 0;
   margin: 0;
 }
@@ -22,12 +22,13 @@
   border: 1px solid brown;
 }
 
-.breakfast {
+.breakfast:hover {
   display: flex;
   padding-left: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
   text-decoration: none;
+  background-color: #192a56;
 }
 
 .lunch {
@@ -44,6 +45,11 @@
   padding-top: 10px;
   padding-bottom: 10px;
   text-decoration: none;
+}
+
+h3 {
+  padding-top: 30px;
+  padding-bottom: 30 px;
 }
 
 a, .back {
