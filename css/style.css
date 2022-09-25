@@ -57,7 +57,12 @@ h3 {
   padding-bottom: 30 px;
 }
 
-a, .back {
+.back {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   text-decoration: none;
 }
 
