@@ -46,7 +46,7 @@
   text-decoration: none;
 }
 
-.breakfast:hover, .lunch:hover, dinner:hover {
+.breakfast:hover, .lunch:hover, .dinner:hover {
   background-color: brown;
   padding-left: 100px;
   padding-right: 100px;
