@@ -92,3 +92,13 @@ a, .back {
 .copy {
   font-weight: bolder;
 }
+
+
+.github {
+  text-decoration: underline;
+  }
+
+.github:hover {
+  text-decoration: underline;
+  background-color: #ffcc99;
+}
