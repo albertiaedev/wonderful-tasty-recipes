@@ -52,6 +52,18 @@
   padding-right: 100px;
 }
 
+.bbc {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.bbc-gf:hover {
+  text-decoration: underline;
+  background-color: #ffcc99;
+}
+
 h3 {
   padding-top: 30px;
   padding-bottom: 30 px;
