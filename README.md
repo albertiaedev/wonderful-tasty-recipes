@@ -1,3 +1,3 @@
-# odin-recipes
+# Wonderful Tasty Recipes
 
-This project consist of a recipe collection website for practicing the basic HTML skills.
+This project consists of a recipe collection website for practicing the basics of HTML, CSS and JavaScript skills.
