@@ -4,6 +4,11 @@
   margin: 0;
 }
 
+.toggle {
+  background: brown;
+  padding: 30px;
+}
+
 .main {
   background-color: #ffcc99;
   padding-top: 20px;
