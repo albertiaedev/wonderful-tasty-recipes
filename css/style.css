@@ -6,7 +6,9 @@
 
 .toggle {
   background: brown;
-  padding: 30px;
+  padding: 10px;
+  padding-right: 50px;
+  text-align: right;
 }
 
 .social {
