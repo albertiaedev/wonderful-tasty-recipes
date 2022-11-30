@@ -59,8 +59,8 @@
 
 .breakfast:hover, .lunch:hover, .dinner:hover {
   background-color: brown;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .bbc {

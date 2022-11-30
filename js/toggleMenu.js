@@ -1,5 +1,5 @@
 // toggle menu
 
-document.querySelector('.menu-btn').addEventListener('click', () => {
-  document.querySelector('.menu').classList.toggle('show');
+document.querySelector('.navbar').addEventListener('click', () => {
+  document.querySelector('.list').classList.toggle('show');
 });
