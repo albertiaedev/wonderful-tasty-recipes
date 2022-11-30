@@ -9,6 +9,12 @@
   padding: 30px;
 }
 
+.social {
+  color: inherit;
+  padding-left: 40px;
+  font-size: 25px;
+}
+
 .main {
   background-color: #ffcc99;
   padding-top: 20px;
