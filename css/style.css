@@ -107,11 +107,18 @@ a, .back {
 
 .btn-back {
   background: brown;
-  border: brown;
+  border: 2px solid brown;
   border-radius: 20px;
   margin-left: 10px;
   display: flex;
   justify-content: flex-start;
+  font-weight: bolder;
+}
+
+.btn-back:hover {
+  background: #ffcc99;
+  border: 2px solid brown;
+  font-weight: bolder;
 }
 
 .footer {
