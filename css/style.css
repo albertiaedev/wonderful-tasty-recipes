@@ -70,11 +70,14 @@
   justify-content: flex-start;
   padding-top: 50px;
   padding-bottom: 20px;
+  padding-left: 20px;
 }
 
 .bbc-gf:hover {
   text-decoration: underline;
   background-color: #ffcc99;
+  border: 2px solid #fff;
+  padding: 10px;
 }
 
 h3 {
@@ -146,4 +149,6 @@ a, .back {
 .github:hover {
   text-decoration: underline;
   background-color: #ffcc99;
+  border: 2px solid #fff;
+  padding: 10px;
 }
