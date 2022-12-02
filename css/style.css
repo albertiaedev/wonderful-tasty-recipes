@@ -113,6 +113,8 @@ a, .back {
   display: flex;
   justify-content: flex-start;
   font-weight: bolder;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .btn-back:hover {
