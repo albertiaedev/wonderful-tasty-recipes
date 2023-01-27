@@ -34,7 +34,6 @@
   background-image: url("../images/background.jpg");
   background-position: center;
   border: 1px solid brown;
-  opacity: 90%;
 }
 
 .breakfast {
@@ -42,8 +41,7 @@
   padding-left: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
-  text-decoration: none;
-  font-weight: bolder;
+  font-weight: lighter;
 }
 
 .lunch {
@@ -51,8 +49,7 @@
   padding-left: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
-  text-decoration: none;
-  font-weight: bolder;
+  font-weight: lighter;
 }
 
 .dinner {
@@ -60,14 +57,14 @@
   padding-left: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
-  text-decoration: none;
-  font-weight: bolder;
+  font-weight: lighter;
 }
 
 .breakfast:hover, .lunch:hover, .dinner:hover {
-  background-color: brown;
-  padding-left: 40px;
-  padding-right: 40px;
+  color: brown;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: bolder;
 }
 
 .bbc {
